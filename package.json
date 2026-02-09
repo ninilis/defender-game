@@ -1,0 +1,24 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "\"Browser based game\"",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/ninilis/defender-game#readme",
+  "bugs": {
+    "url": "https://github.com/ninilis/defender-game/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninilis/defender-game.git"
+  },
+  "license": "ISC",
+  "author": "ninilis",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
